@@ -4,11 +4,16 @@
 
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>Page Title Goes Here</title>
+    <title>My First Web Page</title>
   </head>
 
-  <body>
+  <body> 
     <!--  Page content goes here -->
+    <h1>"Hello World!"<1>
+    <h2> "A place I would like to visit"<h2>
+    <p>If i could go anywhere to in the world i would go to Mexcio and visit my grandmother. I would see my family and spend all day with them. Life there is so diffrent from here, its just so simple. Whenever i think of going to Mexcio with my family i think of a care free life when things are simple and easy.<p>
+    <h2>"A person i admire"<h2>
+    <p> A person i truly admire is my old baseball coach. I've known the man for 14 years. He's taught me so much than just how ti hit a curveball. He's showed me how to be a man of Christ and what it means to bring glory
   </body>
 
 </html>
