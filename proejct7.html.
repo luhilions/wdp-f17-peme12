@@ -18,7 +18,21 @@
     font-family: Verdana;
     color: olive;
       }
-
+       .person-discription{
+       color: purple
+       }
+       
+       .important-point {
+       text-decoration:underline;
+       }
+       
+       .emphasis{
+       text-decoration:italic;
+       }
+       </style>
+       </head>
+       
+       
   <body> 
     <!--  Welcome to the mind of Pete Medley -->
     <h1 id="main-headline" >Hello World!</h1>
